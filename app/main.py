@@ -9,4 +9,4 @@ def home():
 
 @app.get("/api/hello")
 def get_hello():
-    return {"message":"FastAPI says Hi "}
+    return {"message":"FastAPI says Hi"}
