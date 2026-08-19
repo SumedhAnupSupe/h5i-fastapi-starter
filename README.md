@@ -59,7 +59,7 @@ h5i box service start fastapi-demo api
 h5i box ports fastapi-demo
 ```
 
-Open the displayed port, normally:
+Open the displayed port, under DECLARED, normally:
 
 ```text
 http://localhost:8000
